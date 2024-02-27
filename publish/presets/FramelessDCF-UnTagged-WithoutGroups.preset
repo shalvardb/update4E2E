@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <variable>
+      <path>NewSet</path>
+      <name>NewSet</name>
+    </variable>
+    <toc>
+      <path>../../toc/Untagged.toc</path>
+      <name>Untagged</name>
+    </toc>
+    <index type="boolean">true</index>
+    <glossary>
+      <path>../../glossary/Fashion terms.glo</path>
+      <name>Fashion terms</name>
+    </glossary>
+    <includeExpandingText type="boolean">true</includeExpandingText>
+    <includeDropdownText type="boolean">true</includeDropdownText>
+  </content>
+  <title>master project 1</title>
+  <type>frameless</type>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <outputPath>C:/Users/PASAXENA/AutomationSetup/Outputs/23072020/FramelessDCF-UnTagged-WithoutGroups/</outputPath>
+  <name>FramelessDCF-UnTagged-WithoutGroups</name>
+  <starterPage>index.htm</starterPage>
+  <chatbot>
+    <displayName>Google Dialogflow</displayName>
+    <name>dialogflow</name>
+  </chatbot>
+  <mobileapp>
+    <android type="boolean">true</android>
+    <iOS type="boolean">false</iOS>
+  </mobileapp>
+  <search>
+    <suggestion type="boolean">true</suggestion>
+    <context>first_paragraph</context>
+    <contextLimit type="number">100</contextLimit>
+    <maxSearchresults type="number">20</maxSearchresults>
+    <glossary type="boolean">true</glossary>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+    <fuzzy type="boolean">true</fuzzy>
+  </search>
+  <filter>
+    <path>../filters/withoutGroups.filter</path>
+    <name>withoutGroups</name>
+  </filter>
+  <sitemap>
+    <use type="boolean">false</use>
+  </sitemap>
+  <createThumbNails type="boolean">false</createThumbNails>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+  <dgflowApiClientKey></dgflowApiClientKey>
+  <dgflowApiDevKey></dgflowApiDevKey>
+</preset>

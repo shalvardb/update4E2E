@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>    
+<expr>    
+<group flag="Include" op="AND">
+<tag name="Others" value="acessories" flag="Include" op="AND"></tag>
+<tag name="Platform" value="tag_sanity" flag="Include" op="AND"></tag></group>    </expr>

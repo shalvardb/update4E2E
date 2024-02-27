@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aliaslist version="1.0">
+  <alias name="map1" value="1" link="../../contents/All_Categories.htm"></alias>
+  <alias name="map2" value="2" link="../../contents/Women_Categories/Apparel/Dresses/Party/casual_dresses.htm"></alias>
+  <alias name="casual_dresses" value="3" link="../../contents/Women_Categories/Apparel/Dresses/Party/casual_dresses.htm"></alias>
+  <alias name="formal_dresses" value="4" link="../../contents/Women_Categories/Apparel/Dresses/Party/formal_dresses.htm"></alias>
+  <alias name="formal_dresses_Luckily" value="5" link="../../contents/Women_Categories/Apparel/Dresses/Party/formal_dresses.htm#Luckily"></alias>
+  <alias name="Formal_tops" value="6" link="../../contents/Women_Categories/Apparel/Tops/Party/Formal_tops.htm"></alias>
+  <alias name="Informal_footwears" value="7" link="../../contents/Women_Categories/Footwears/Informal_footwears.htm"></alias>
+  <alias name="Outdoor_Dresses_Jeans" value="8" link="../../contents/Men_categories/Apparel/Jeans/Outdoor_Dresses_Jeans.htm"></alias>
+  <alias name="Party_Dresses_for_Women" value="9" link="../../contents/Women_Categories/Apparel/Dresses/Party/Party_Dresses_for_Women.htm"></alias>
+  <alias name="Women_dresses" value="10" link="../../contents/Women_Categories/Apparel/Dresses/Women_dresses.htm"></alias>
+  <alias name="German_language" value="37" link="../../contents/RoboHelp_Features/New_Folder/German language.htm"></alias>
+</aliaslist>

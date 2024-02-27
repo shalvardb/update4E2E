@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <variable>
+      <path>Fashioon terminology</path>
+      <name>Fashioon terminology</name>
+    </variable>
+    <toc>
+      <path>../../toc/DCF-Tagged-ExtFiles-Exclude.toc</path>
+      <name>DCF-Tagged-ExtFiles-Exclude</name>
+    </toc>
+    <index type="boolean">true</index>
+    <glossary>
+      <path>../../glossary/Fashion terms.glo</path>
+      <name>Fashion terms</name>
+    </glossary>
+    <brs type="array">
+      <brsitem>
+        <path>../browsesequence/RoboHelp.brs</path>
+      </brsitem>
+    </brs>
+    <includeExpandingText type="boolean">true</includeExpandingText>
+    <includeDropdownText type="boolean">true</includeDropdownText>
+  </content>
+  <title>master project 1</title>
+  <metadataNew type="array">
+    <metadataNewitem>
+      <propkey>Title</propkey>
+      <propvalue>master project 1</propvalue>
+    </metadataNewitem>
+  </metadataNew>
+  <type>frameless</type>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <outputPath>C:/Users/PASAXENA/AutomationSetup/Outputs/23072020/FramelessDCF-Tagged-WithoutGroups/</outputPath>
+  <name>FramelessExcludeFiles</name>
+  <starterPage>index.htm</starterPage>
+  <chatbot>
+    <displayName>Google Dialogflow</displayName>
+    <name>dialogflow</name>
+  </chatbot>
+  <mobileapp>
+    <android type="boolean">true</android>
+    <iOS type="boolean">false</iOS>
+  </mobileapp>
+  <search>
+    <suggestion type="boolean">true</suggestion>
+    <context>description</context>
+    <contextLimit type="number">100</contextLimit>
+    <maxSearchresults type="number">20</maxSearchresults>
+    <glossary type="boolean">true</glossary>
+    <fileTypes>
+      <pdf type="boolean">true</pdf>
+      <ppt type="boolean">true</ppt>
+      <word type="boolean">true</word>
+      <xls type="boolean">true</xls>
+      <text type="boolean">true</text>
+    </fileTypes>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+    <fuzzy type="boolean">true</fuzzy>
+  </search>
+  <filter>
+    <path>../filters/NoGroup.filter</path>
+    <name>NoGroup</name>
+  </filter>
+  <sitemap>
+    <use type="boolean">false</use>
+  </sitemap>
+  <skin>
+    <path>../skins/Oceanic/frameless.skn</path>
+    <name>frameless</name>
+  </skin>
+  <createThumbNails type="boolean">false</createThumbNails>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+  <dgflowApiClientKey></dgflowApiClientKey>
+  <dgflowApiDevKey></dgflowApiDevKey>
+</preset>

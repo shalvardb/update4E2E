@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aliaslist version="1.0">
+  <alias name="bits_and_pieces" value="30" link="../../contents/folderAtest/bits_and_piec.htm"></alias>
+  <alias name="hyperlink_test" value="31" link="../../contents/folderAtest/hyperlink_test.htm"></alias>
+  <alias name="test" value="32" link="../../contents/folderAtest/topic_A_test.htm"></alias>
+  <alias name="list_test" value="33" link="../../contents/folderAtest/list_test.htm"></alias>
+  <alias name="tables_test" value="34" link="../../contents/folderAtest/New_Topic.htm"></alias>
+  <alias name="topic_A_test" value="35" link="../../contents/folderAtest/topic_A_test.htm"></alias>
+  <alias name="General_information1" value="36" link="../../contents/General_information.htm"></alias>
+</aliaslist>

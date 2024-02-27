@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>        
+
+<glossgroup id="master project 1">          
+<title>Glossary Definitions</title>        
+<glossentry id="brands">
+<glossterm>brands</glossterm>
+<glossdef>Fashion labels:</glossdef></glossentry>
+<glossentry id="footwears">
+<glossterm>footwears</glossterm>
+<glossdef>Sneakers are a type of footwear    A pair of long socks  Footwear refers to garments worn on the feet, which originally serves to purpose of protection against adversities of the environment, usually regarding ground textures and temperature. Footwear in the manner of shoes therefore primarily serves the purpose to ease the locomotion and prevent injuries.</glossdef></glossentry>
+<glossentry id="Träume">
+<glossterm>Träume</glossterm>
+<glossdef>希望</glossdef></glossentry>
+<glossentry id="UCB">
+<glossterm>UCB</glossterm>
+<glossdef>United Colors of benetton</glossdef></glossentry>
+<glossentry id="家">
+<glossterm>家</glossterm>
+<glossdef>La maison où nous vivons.Ist wo wir lieben</glossdef></glossentry>
+<glossentry id="master_project 1_Stilletoes">
+<glossterm>Stilletoes</glossterm>
+<glossdef>A stiletto heel is a long, thin, high heel found on some boots and shoes, usually for women. It is named after the stiletto dagger, the phrase being first recorded in the early 1930s</glossdef></glossentry>
+<glossentry id="master_project 1_wedges">
+<glossterm>wedges</glossterm>
+<glossdef>Wedge boots, wedgies, or lifties are shoes and boots with a sole in the form of a wedge, such that one piece of material, normally rubber, serves as both the sole and the heel. This design dates back to ancient Greece.</glossdef></glossentry>
+<glossentry id="master_project 1_bookmark">
+<glossterm>bookmark</glossterm>
+<glossdef>chekc for this term in output</glossdef></glossentry></glossgroup>

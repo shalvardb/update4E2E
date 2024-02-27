@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <title>Table of Contents</title>
+  <page href="../contents/Women_Categories/Apparel/Dresses/Party/casual_dresses.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/RoboHelp_Features/New_Folder/DHTML_effects.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/RoboHelp_Features/New_Folder/dhtml.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/Women_Categories/Apparel/Dresses/Party/formal_dresses.htm" format="html" processing-role="normal"></page>
+</map>

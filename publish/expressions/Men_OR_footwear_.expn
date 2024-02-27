@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>    
+<expr>    
+<group flag="Include" op="AND">
+<tag name="Others" value="Men" flag="Include" op="OR"></tag>
+<tag name="Others" value="footwear" flag="Include" op="AND"></tag></group>    </expr>

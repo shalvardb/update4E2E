@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <section name="ResponsiveHelp">
+    <element name="SearchOptions" value="Opções de pesquisa"></element>
+    <element name="Loading" value="Carregando..."></element>
+    <element name="UnknownError" value="Erro desconhecido"></element>
+    <element name="Logo" value="Logomarca"></element>
+    <element name="Search" value="Buscar"></element>
+    <element name="HomeButton" value="Início"></element>
+    <element name="SearchPageTitle" value="Resultados da pesquisa"></element>
+    <element name="PreviousLabel" value="Anterior"></element>
+    <element name="NextLabel" value="Próximo"></element>
+    <element name="TopicsNotFound" value="Nenhum tópico encontrado."></element>
+    <element name="JS_alert_LoadXmlFailed" value="Erro: falha ao carregar o arquivo xml."></element>
+    <element name="JS_alert_InitDatabaseFailed" value="Erro: falha ao inicializar o banco de dados."></element>
+    <element name="JS_alert_InvalidExpression_1" value="As palavras digitadas não são uma expressão válida."></element>
+    <element name="Searching" value="Buscando..."></element>
+    <element name="Cancel" value="Cancelar"></element>
+    <element name="Canceled" value="Cancelado"></element>
+    <element name="ResultsFoundText" value="%1 resultado(s) encontrado(s) para %2"></element>
+    <element name="SearchResultsPerScreen" value="Resultados de busca por página"></element>
+    <element name="Back" value="Voltar"></element>
+    <element name="Next" value="&gt;&gt;"></element>
+    <element name="Prev" value="&lt;&lt;"></element>
+    <element name="TableOfContents" value="Tabela de conteúdo"></element>
+    <element name="IndexFilterKewords" value="Encontrar palavra-chave"></element>
+    <element name="GlossaryFilterTerms" value="Encontrar termo"></element>
+    <element name="ShowAll" value="Exibir todos"></element>
+    <element name="HideAll" value="Ocultar todos"></element>
+    <element name="ShowHide" value="Exibir/ocultar"></element>
+    <element name="IeCompatibilityErrorMsg" value="Não é possível visualizar esta página no Internet Explorer 8 ou inferiores.."></element>
+    <element name="NoScriptErrorMsg" value="Habilite o suporte ao JavaScript no navegador para visualizar esta página."></element>
+    <element name="EnableAndSearch" value="Include all words in search"></element>
+    <element name="HighlightSearchResults" value="Highlight search results"></element>
+    <element name="Print" value="Imprimir"></element>
+    <element name="Filter" value="Filtrar"></element>
+    <element name="SearchTitle" value="Pesquisar"></element>
+    <element name="ContentFilterChanged" value="O filtro de conteúdos foi alterado. Pesquise novamente"></element>
+    <element name="EndOfResults" value="Fim dos resultados da pesquisa."></element>
+    <element name="Reset" value="Redefinir"></element>
+    <element name="NavTip" value="Close"></element>
+    <element name="ToTopTip" value="Ir para o início"></element>
+    <element name="ApplyTip" value="Aplicar"></element>
+    <element name="SidebarToggleTip" value="Expandir/Recolher"></element>
+    <element name="Copyright" value="© Copyright 2017. Todos os direitos reservados."></element>
+    <element name="FavoriteBoxTitle" value="Favoritos"></element>
+    <element name="setAsFavorites" value="Adicionar a favoritos"></element>
+    <element name="unsetAsFavorite" value="Remover de Favoritos"></element>
+    <element name="favoritesNameLabel" value="Nome"></element>
+    <element name="favoritesLabel" value="Favoritos"></element>
+    <element name="setAsFavorite" value="Definir como favorita"></element>
+    <element name="nofavoritesFound" value="You have not marked any topic as favorite."></element>
+    <element name="Welcome_header" value="Bem-vindo ao nosso Centro de ajuda"></element>
+    <element name="Welcome_text" value="Em que podemos ajudá-lo?"></element>
+    <element name="SearchButtonTitle" value="Procurar"></element>
+    <element name="ShowTopicInContext" value="Clique aqui para ver esta página com o contexto completo"></element>
+    <element name="Contents" value="Conteúdo"></element>
+    <element name="Index" value="Índice"></element>
+    <element name="Glossary" value="Glossário"></element>
+    <element name="Show" value="Mostrar"></element>
+    <element name="Hide" value="Esconder"></element>
+  </section>
+  <section name="PDF">
+    <element name="TableOfContents" value="Tabela de conteúdo"></element>
+    <element name="TitlePage" value="Página de título"></element>
+    <element name="ChapterFileNamePrefix" value="Capítulo_"></element>
+    <element name="TitlePageFileName" value="Capítulo__Página_título.doc"></element>
+    <element name="CrossReferencePrefix" value="Consulte"></element>
+    <element name="GlossaryHeadingStyleName" value="Título do glossário"></element>
+    <element name="GlossaryTermStyleName" value="Termo do glossário"></element>
+    <element name="GlossaryDefinitionStyleName" value="Definição do glossário"></element>
+    <element name="TitlePageTitleStyleName" value="Título da página de título"></element>
+    <element name="TocPageTitleStyleName" value="Título da página de conteúdo"></element>
+    <element name="Contents" value="Conteúdo"></element>
+    <element name="Index" value="Índice"></element>
+    <element name="Search" value="Buscar"></element>
+    <element name="Glossary" value="Glossário"></element>
+    <element name="Show" value="Mostrar"></element>
+    <element name="Hide" value="Esconder"></element>
+  </section>
+</configuration>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="topic-comment" content="" />
+  <meta name="generator" content="Adobe RoboHelp 2019" />
+  <title>sanity_11</title>
+  <link rel="stylesheet" type="text/css" href="../css/assets/css/default.css" />
+</head>
+<body>
+  <p><img src="../images/Lock1.jpg" /></p>
+  <p> </p>
+  <p><a class="dropspot" data-rhwidget="DropSpot" data-target="drop-down" href="#">Drop-down Title</a></p>
+  <div class="droptext" data-targetname="drop-down">
+    <p>Type your <a href="../../folderAtest/topic_A_test.htm">dropdown</a> text here</p>
+  </div>
+</body>
+</html>

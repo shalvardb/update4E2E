@@ -1,0 +1,999 @@
+/*Created with Adobe RoboHelp 2017.*/
+SPAN.expandtext {
+	font-style: italic;
+	font-weight: normal;
+	color: #ff0000;
+}
+a {
+	display: inline;
+	color: #800080;
+	text-decoration: underline;
+}
+A.glossterm {
+	color: #800000;
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+}
+SPAN.glosstext {
+	font-style: italic;
+	font-weight: normal;
+	color: #0000ff;
+}
+a.dropspot {
+	color: #ff00ff;
+	display: inline;
+}
+a.expandspot {
+	color: #808000;
+	display: inline;
+}
+img.Style1 {
+	float: left;
+	margin-left: 8px;
+	border-left-style: Double;
+	border-left-color: #800080;
+	border-right-style: Double;
+	border-right-color: #800080;
+	border-top-style: Double;
+	border-top-color: #800080;
+	border-bottom-style: Double;
+	border-bottom-color: #800080;
+	border-left-width: 3px;
+	border-right-width: 3px;
+	border-top-width: 3px;
+	border-bottom-width: 3px;
+	background-color: #ff80ff;
+}
+li.Style2 {
+	text-align: center;
+	font-family: Tunga;
+	color: #ff0000;
+	border-left-style: Double;
+	border-left-width: 5px;
+	border-left-color: #800080;
+	margin-top: 19px;
+}
+p {
+	margin-top: 14pt;
+	margin-bottom: 14pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	font-family: Mangal;
+	font-size: 10pt;
+	color: #800000;
+}
+h1 {
+	font-weight: bold;
+	font-size: 22pt;
+	margin-top: 14pt;
+	margin-bottom: 14pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	page-break-after: avoid;
+	color: #008000;
+}
+span.rls-9-Bullets {
+	font-size: 8pt;
+}
+span.rls-1-Bullets {
+	font-size: 12pt;
+}
+span.rls-2-Bullets {
+	font-size: 12pt;
+}
+span.rls-3-Bullets {
+	font-size: 12pt;
+}
+span.rls-4-Bullets {
+	font-size: 12pt;
+}
+span.rls-5-Bullets {
+	font-size: 10pt;
+}
+span.rls-6-Bullets {
+	font-size: 10pt;
+}
+span.rls-7-Bullets {
+	font-size: 10pt;
+}
+span.rls-8-Bullets {
+	font-size: 10pt;
+}
+ol.ChaptersAndArticles {
+	--prefix-size: 78.5px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 40px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item1;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.ChaptersAndArticles>li {
+	--prefix-size: 78.5px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 40px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.ChaptersAndArticles>li:before {
+	counter-increment: item1;
+	content: "Article "counter(item1, decimal)".";
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.ChaptersAndArticles>li>ol {
+	--prefix-size: 82.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item2;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.ChaptersAndArticles>li>ol>li {
+	--prefix-size: 82.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.ChaptersAndArticles>li>ol>li:before {
+	counter-increment: item2;
+	content: "Section "counter(item2, decimal)".";
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.ChaptersAndArticles>li>ol>li>ol {
+	--prefix-size: 112.1px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item3;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li {
+	--prefix-size: 112.1px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li:before {
+	counter-increment: item3;
+	content: "Section "counter(item2, decimal)"."counter(item3, lower-alpha)".";
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol {
+	--prefix-size: 98.9px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item4;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li {
+	--prefix-size: 98.9px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li:before {
+	counter-increment: item4;
+	content: "Paragraph "counter(item4, upper-roman)".";
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: disc;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 31.4px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item6;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li {
+	--prefix-size: 31.4px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: item6;
+	content: counter(item6, lower-alpha)")";
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 60.1px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item7;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li {
+	--prefix-size: 60.1px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: item7;
+	content: counter(item6, lower-alpha)"."counter(item7, decimal)".";
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 30.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item8;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li {
+	--prefix-size: 30.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: item8;
+	content: counter(item8, decimal)".";
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 30.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item9;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li {
+	--prefix-size: 30.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.ChaptersAndArticles>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: item9;
+	content: counter(item9, decimal)".";
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.FolderPageBullet {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 40px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item1;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.FolderPageBullet>li {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 40px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.FolderPageBullet>li:before {
+	counter-increment: item1;
+	font-family: Wingdings;
+	content: "1""";
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.FolderPageBullet>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: decimal;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.FolderPageBullet>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: disc;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: square;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item5;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol>li {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: item5;
+	font-family: Wingdings;
+	content: "1""";
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: decimal;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: disc;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: square;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item9;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.FolderPageBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: item9;
+	font-family: Wingdings;
+	content: "1""";
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.Bullets {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 40px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item1;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.Bullets>li {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 40px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.Bullets>li:before {
+	counter-increment: item1;
+	content: counter(item1, disc)"";
+	font-size: 12pt;
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.Bullets>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item2;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.Bullets>li>ol>li {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.Bullets>li>ol>li:before {
+	counter-increment: item2;
+	content: counter(item2, square)"";
+	font-size: 12pt;
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.Bullets>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item3;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.Bullets>li>ol>li>ol>li {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.Bullets>li>ol>li>ol>li:before {
+	counter-increment: item3;
+	content: counter(item3, circle)"";
+	font-size: 12pt;
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.Bullets>li>ol>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item4;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.Bullets>li>ol>li>ol>li>ol>li {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.Bullets>li>ol>li>ol>li>ol>li:before {
+	counter-increment: item4;
+	content: counter(item4, square)"";
+	font-size: 12pt;
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.Bullets>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item5;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.Bullets>li>ol>li>ol>li>ol>li>ol>li {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.Bullets>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: item5;
+	content: counter(item5, disc)"";
+	font-size: 10pt;
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.Bullets>li>ol>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item6;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.Bullets>li>ol>li>ol>li>ol>li>ol>li>ol>li {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.Bullets>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: item6;
+	content: counter(item6, square)"";
+	font-size: 10pt;
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.Bullets>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item7;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.Bullets>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.Bullets>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: item7;
+	content: counter(item7, circle)"";
+	font-size: 10pt;
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.Bullets>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item8;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.Bullets>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.Bullets>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: item8;
+	content: counter(item8, square)"";
+	font-size: 10pt;
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.Bullets>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item9;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.Bullets>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.Bullets>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: item9;
+	content: counter(item9, disc)"";
+	font-size: 8pt;
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.NumberBulletAlphaBullet {
+	--prefix-size: 30.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 40px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item1;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.NumberBulletAlphaBullet>li {
+	--prefix-size: 30.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 40px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.NumberBulletAlphaBullet>li:before {
+	counter-increment: item1;
+	content: counter(item1, decimal)".";
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.NumberBulletAlphaBullet>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: disc;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.NumberBulletAlphaBullet>li>ol>li>ol {
+	--prefix-size: 30.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item3;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.NumberBulletAlphaBullet>li>ol>li>ol>li {
+	--prefix-size: 30.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.NumberBulletAlphaBullet>li>ol>li>ol>li:before {
+	counter-increment: item3;
+	content: counter(item3, lower-alpha)".";
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.NumberBulletAlphaBullet>li>ol>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: circle;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.NumberBulletAlphaBullet>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 30.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item5;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.NumberBulletAlphaBullet>li>ol>li>ol>li>ol>li>ol>li {
+	--prefix-size: 30.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.NumberBulletAlphaBullet>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: item5;
+	content: counter(item5, decimal)".";
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.NumberBulletAlphaBullet>li>ol>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: circle;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.NumberBulletAlphaBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 30.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item7;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.NumberBulletAlphaBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li {
+	--prefix-size: 30.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.NumberBulletAlphaBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: item7;
+	content: counter(item7, decimal)".";
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}
+ol.NumberBulletAlphaBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 26.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: square;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.NumberBulletAlphaBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol {
+	--prefix-size: 30.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	list-style: none;
+	counter-reset: item9;
+	padding-left: var(--prefix-size);
+	margin-left: calc(var(--list-indent) - var(--prefix-size));
+}
+ol.NumberBulletAlphaBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li {
+	--prefix-size: 30.0px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 4px;
+	--list-indent: 20px;
+	--vertical-spacing: 0px;
+	position: relative;
+	margin-top: calc(var(--vertical-spacing) / 2);
+	margin-bottom: calc(var(--vertical-spacing) / 2);
+}
+ol.NumberBulletAlphaBullet>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+	counter-increment: item9;
+	content: counter(item9, decimal)".";
+	text-align: right;
+	position: absolute;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	overflow: hidden;
+}

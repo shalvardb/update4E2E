@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="topic-comment" content=""/>
+<meta name="generator" content="Adobe RoboHelp 2019"/>
+<title>New Snippet1</title>
+</head>
+
+<body>
+
+<p data-condition="Others:informal"><img src="../images/image12.gif" alt="" style="border: none;" border="0"/> This is 
+ <a href="../../New_Topic.htm" data-rhwidget="HyperlinkPopover">placeholder</a> 
+ text for your <a data-target="POPUP706659315" data-rhwidget="ExpandSpot" href="#" class="expandspot">snippet</a><span data-targetname="POPUP706659315" class="expandtext">Type your 
+ expanding text here. </span>. To add content to the body, 
+ replace this text. To add content to the body, replace this text.To add 
+ content to the body, replace this text. To add content to the body, 
+ replace this text.To add content to the body, replace this text.To add 
+ content to the body, replace this text.To add content to the body, replace 
+ this text.To add content to the body, replace this text. </p>
+<p>lkj jjekajwek jlejql eq</p>
+<p>e;</p>
+<p>q&#39;e</p>
+<p> wq&#39;e</p>
+<p>w rwerwer kewkr kwnrekwerkewtret</p>
+<p>e</p>
+<p>For information about applying snippets to topics, press <b>F1</b>.</p>
+<script type="text/javascript" language="JavaScript1.2">//<![CDATA[
+	if( typeof( FilePopupInit ) != 'function' ) FilePopupInit = new Function();
+	if( typeof( TextPopupInit ) != 'function' ) TextPopupInit = new Function();
+	FilePopupInit('a2');
+	TextPopupInit('a1', 'POPUP706659315');
+//]]></script>
+
+
+</body></html>

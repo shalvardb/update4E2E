@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <title>Table of Contents</title>
+  <book navtitle="Women Categories" format="html" processing-role="normal">
+    <book navtitle="Apparel" format="html" processing-role="normal">
+      <book navtitle="Dresses @$&amp;" format="html" processing-role="normal">
+        <page href="../contents/Women_Categories/Apparel/Dresses/Women_dresses.htm" format="html" processing-role="normal"></page>
+        <book navtitle="Party" format="html" processing-role="normal">
+          <page href="../contents/Women_Categories/Apparel/Dresses/Party/Party_Dresses_for_Women.htm" format="html" processing-role="normal"></page>
+          <book href="../contents/Women_Categories/Apparel/Dresses/Party/casual_dresses.htm" format="html" processing-role="normal">
+            <page navtitle="Party_Dress" href="../contents/Women_Categories/Apparel/Dresses/Party/casual_dresses.htm#Party_Dress" format="html" processing-role="normal"></page>
+          </book>
+          <book href="../contents/Women_Categories/Apparel/Dresses/Party/formal_dresses.htm" format="html" processing-role="normal">
+            <page navtitle="Luckily" href="../contents/Women_Categories/Apparel/Dresses/Party/formal_dresses.htm#Luckily" format="html" processing-role="normal"></page>
+          </book>
+        </book>
+      </book>
+      <book navtitle="Tops" format="html" processing-role="normal">
+        <book navtitle="Party" format="html" processing-role="normal">
+          <page href="../contents/Women_Categories/Apparel/Tops/Party/Formal_tops.htm" format="html" processing-role="normal"></page>
+        </book>
+      </book>
+    </book>
+    <book navtitle="Footwears" format="html" processing-role="normal">
+      <page navtitle="Informal footwears" href="../contents/Women_Categories/Footwears/Informal_footwears.htm" format="html" processing-role="normal"></page>
+    </book>
+  </book>
+</map>

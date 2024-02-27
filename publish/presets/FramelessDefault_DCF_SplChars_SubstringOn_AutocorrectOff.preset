@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <title>master project 1</title>
+  <content>
+    <toc>
+      <path>../../toc/sanityupadate_11.toc</path>
+      <name>sanityupadate_11</name>
+    </toc>
+    <index type="boolean">true</index>
+    <glossary>
+      <name>master project 1</name>
+      <path>../../glossary/master project 1.glo</path>
+    </glossary>
+    <language><code type="number">2057</code>
+      <displayName>English (UK)</displayName>
+      <name>en_UK</name>
+    </language>
+    <includeExpandingText type="boolean">true</includeExpandingText>
+    <includeDropdownText type="boolean">true</includeDropdownText>
+    <variable>
+      <path></path>
+      <name></name>
+    </variable>
+  </content>
+  <metadataNew type="array">
+    <metadataNewitem>
+      <propkey>Title</propkey>
+      <propvalue>master project 1</propvalue>
+    </metadataNewitem>
+  </metadataNew>
+  <type>frameless</type>
+  <glosstermEffect type="number">1</glosstermEffect>
+  <outputPath>C:/Users/PASAXENA/AutomationSetup/Outputs/06-07-2020/FramelessDefault_DCF_SplChars_SubstringOn/</outputPath>
+  <name>FramelessDefault_DCF_SplChars_SubstringOn_AutocorrectOff</name>
+  <starterPage>index.htm</starterPage>
+  <logoURL>RoboHelp_Features/Images.htm</logoURL>
+  <mobileapp>
+    <android type="boolean">true</android>
+    <iOS type="boolean">false</iOS>
+  </mobileapp>
+  <search>
+    <suggestion type="boolean">true</suggestion>
+    <context>keyword</context>
+    <contextLimit type="number">100</contextLimit>
+    <maxSearchresults type="number">20</maxSearchresults>
+    <glossary type="boolean">true</glossary>
+    <searchsubstrings type="boolean">true</searchsubstrings>
+    <showSpeclChars type="boolean">true</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9;%;@;#;$;</speclChars>
+    <fuzzy type="boolean">false</fuzzy>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+  </sitemap>
+  <skin>
+    <name>frameless</name>
+    <path>../skins/Orange1/frameless.skn</path>
+  </skin>
+  <createThumbNails type="boolean">false</createThumbNails>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+  <dgflowApiClientKey></dgflowApiClientKey>
+  <dgflowApiDevKey></dgflowApiDevKey>
+  <serversStatus type="array">
+    <serversStatusitem>
+      <name>Profile_3</name>
+    </serversStatusitem>
+  </serversStatus>
+</preset>

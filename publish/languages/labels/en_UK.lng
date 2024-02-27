@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <section name="PDF">
+    <element name="Contents" value="Contents12234"></element>
+    <element name="Index" value="Indexqeqe"></element>
+    <element name="Glossary" value="Glossary`131313"></element>
+  </section>
+  <section name="ResponsiveHelp">
+    <element name="Contents" value="ContentsResponsive"></element>
+    <element name="Index" value="IndexResponsive"></element>
+    <element name="Search" value="-Search-"></element>
+    <element name="Glossary" value="Glossary`131313"></element>
+    <element name="SearchOptions" value="Search Options"></element>
+    <element name="SearchPageTitle" value="Search Results"></element>
+    <element name="JS_alert_InitDatabaseFailed" value="Error: Failed to initialise database."></element>
+    <element name="IndexFilterKewords" value="Find Keyword"></element>
+    <element name="GlossaryFilterTerms" value="Find Term"></element>
+    <element name="ShowAll" value="Show All"></element>
+    <element name="EnableAndSearch" value="Show results that include all search words"></element>
+    <element name="HighlightSearchResults" value="Highlight Search Results"></element>
+    <element name="ContentFilterChanged" value="Content filter is changed, search again"></element>
+    <element name="NavTip" value="Menu"></element>
+    <element name="Copyright" value="© Copyright 2017. All rights reserved."></element>
+    <element name="unsetAsFavorite" value="Remove from Favourites"></element>
+    <element name="setAsFavorite" value="Set as favourite"></element>
+    <element name="nofavoritesFound" value="You have not marked any pages as favourite."></element>
+    <element name="FilterIntro" value="Please select your filter(s):"></element>
+  </section>
+</configuration>

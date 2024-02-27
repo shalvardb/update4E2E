@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>    
+<filter displayname="Select the options" multiple="yes" withingroup="yes">    
+<group displayname="Others" name="Others">
+<condition name="Others" value="Online" displayname="Online" default="no"></condition>
+<condition name="Others" value="Print" displayname="Print" default="no"></condition></group>
+<group displayname="New Group" name="New Group"></group>
+<group displayname="Role" name="Role">
+<condition name="Role" value="Admin" displayname="Admin" default="no"></condition>
+<condition name="Role" value="Configurator" displayname="Configurator" default="no"></condition></group></filter>

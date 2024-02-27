@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>        
+
+<keywords>        
+<keyword>
+<name>2nd_renamed</name>
+<conditions>Others:footwear</conditions>
+<seealso>All Categories{Casual}</seealso></keyword>
+<keyword>
+<name>A black</name>
+<seealso>2nd_renamed</seealso></keyword>
+<keyword>
+<name>Accessorize</name>
+<conditions>Others:acessories</conditions></keyword>
+<keyword>
+<name>Casuals</name>
+<conditions>Others:formal</conditions>
+<keywords>
+<keyword>
+<name>Meeting</name>
+<conditions>Others:formal</conditions></keyword></keywords></keyword></keywords>

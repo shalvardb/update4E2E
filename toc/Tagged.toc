@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map type="toc">
+  <title>Table of Contents</title>
+  <page href="../contents/introduction.htm" format="html" processing-role="normal"></page>
+  <book navtitle="Section_Admin" condition="Role:Admin" format="html" processing-role="normal">
+    <page href="../contents/AutoPage04.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Section_Config" condition="Role:Configurator" format="html" processing-role="normal">
+    <page condition="Role:Configurator" href="../contents/AutoPage03.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Section_admin_online" condition="Others:Online;Role:Admin" format="html" processing-role="normal">
+    <page href="../contents/Duplicate1.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Section01" format="html" processing-role="normal">
+    <page href="../contents/AutoPage01.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Section_config_print" condition="Others:Print;Role:Configurator" format="html" processing-role="normal">
+    <page condition="Others:Print;Role:Configurator" href="../contents/New_Topic.htm" format="html" processing-role="normal"></page>
+  </book>
+  <page condition="Role:Admin" href="../contents/admin.htm" format="html" processing-role="normal"></page>
+  <page condition="Platform:Online;Role:Admin" href="../contents/admin_online.htm" format="html" processing-role="normal"></page>
+  <page condition="Platform:Print;Role:Admin" href="../contents/admin_print.htm" format="html" processing-role="normal"></page>
+  <page condition="Platform:Online;Role:Configurator" href="../contents/config_online.htm" format="html" processing-role="normal"></page>
+  <page condition="Platform:Print;Role:Configurator" href="../contents/config_print.htm" format="html" processing-role="normal"></page>
+  <page condition="Role:Configurator" href="../contents/configurator.htm" format="html" processing-role="normal"></page>
+  <page condition="Platform:Online" href="../contents/online.htm" format="html" processing-role="normal"></page>
+  <page condition="Platform:Print" href="../contents/print.htm" format="html" processing-role="normal"></page>
+</map>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Synonyms FormatVersion="2" FeatureVersion="2">
+  <DirectionalSynList>
+    <DirectionalSyn>
+      <From>dresses</From>
+      <To>benetton</To>
+      <To>Bus</To>
+    </DirectionalSyn>
+    <DirectionalSyn>
+      <From>caps</From>
+      <To>hats</To>
+    </DirectionalSyn>
+    <DirectionalSyn>
+      <From>load</From>
+      <To>perform</To>
+    </DirectionalSyn>
+    <DirectionalSyn>
+      <From>Button</From>
+      <To>Thread</To>
+    </DirectionalSyn>
+    <DirectionalSyn>
+      <From>Thread</From>
+      <To>Silver</To>
+    </DirectionalSyn>
+    <DirectionalSyn>
+      <From>Car</From>
+      <To>BMW</To>
+      <To>Mercedes</To>
+      <To>Jaguar</To>
+    </DirectionalSyn>
+    <DirectionalSyn>
+      <From>Toy</From>
+      <To>Car</To>
+    </DirectionalSyn>
+    <DirectionalSyn>
+      <From>Train</From>
+      <To>Blueline</To>
+    </DirectionalSyn>
+    <DirectionalSyn>
+      <From>Plane</From>
+      <To>Blueline</To>
+    </DirectionalSyn>
+  </DirectionalSynList>
+</Synonyms>

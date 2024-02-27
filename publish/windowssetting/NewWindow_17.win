@@ -1,0 +1,27 @@
+<window>
+  <name>NewWindow_17</name>
+  <caption>master project 1</caption>
+  <tocfile></tocfile>
+  <indexfile></indexfile>
+  <defaultfile>All_Categories.htm</defaultfile>
+  <homefile></homefile>
+  <jump1filename>http://www.google.com</jump1filename>
+  <jump1text>ff</jump1text>
+  <jump2filename>http://www.google.com</jump2filename>
+  <jump2text>fffffff</jump2text>
+  <flags>1074402592</flags>
+  <navpanewidth>0</navpanewidth>
+  <buttons>798790</buttons>
+  <windowplacement>
+    <left>5</left>
+    <top>5</top>
+    <right>512</right>
+    <bottom>384</bottom>
+  </windowplacement>
+  <windowstyle>0</windowstyle>
+  <windowstyleex>0</windowstyleex>
+  <expandedstate>0</expandedstate>
+  <defaulttab>0</defaulttab>
+  <tabposition>0</tabposition>
+  <showwindow>0</showwindow>
+</window>

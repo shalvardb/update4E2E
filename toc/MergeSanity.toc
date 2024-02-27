@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map type="toc">
+  <title>Table of Contents</title>
+  <book navtitle="folderAtest" format="html" processing-role="normal">
+    <page href="../contents/folderAtest/bits_and_piec.htm" format="html" processing-role="normal"></page>
+    <book href="../contents/folderAtest/hyperlink_test.htm" format="html" processing-role="normal">
+      <page navtitle="12345" href="../contents/folderAtest/hyperlink_test.htm#12345" format="html" processing-role="normal"></page>
+    </book>
+    <page href="../contents/folderAtest/images_image_map.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/folderAtest/list_test.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/folderAtest/New_Topic.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/folderAtest/topic_A_test.htm" format="html" processing-role="normal"></page>
+    <project navtitle="Learn_a_Latte" format="html" processing-role="normal"></project>
+  </book>
+  <book navtitle="Kids" format="html" processing-role="normal">
+    <book href="../contents/Kids/Kids_Dresses.htm" format="html" processing-role="normal">
+      <page navtitle="MAP625216185" href="../contents/Kids/Kids_Dresses.htm#MAP625216185" format="html" processing-role="normal"></page>
+      <page navtitle="MAP568201839" href="../contents/Kids/Kids_Dresses.htm#MAP568201839" format="html" processing-role="normal"></page>
+    </book>
+    <book navtitle="Vêtements" format="html" processing-role="normal">
+      <book navtitle="ドレス" format="html" processing-role="normal">
+        <page condition="Others:Kids" href="../contents/Kids/Kids_Dresses.htm" format="html" processing-role="normal"></page>
+      </book>
+      <book navtitle="fête" format="html" processing-role="normal">
+        <page condition="Others:Kids" href="../contents/Kids/robe_de_fête.htm" format="html" processing-role="normal"></page>
+        <page href="../contents/Kids/文書.htm" format="html" processing-role="normal"></page>
+      </book>
+    </book>
+    <book href="../contents/Kids/robe_de_fête.htm" format="html" processing-role="normal">
+      <page navtitle="p1" href="../contents/Kids/robe_de_fête.htm#p1" format="html" processing-role="normal"></page>
+      <page navtitle="Cyrillic" href="../contents/Kids/robe_de_fête.htm#Cyrillic" format="html" processing-role="normal"></page>
+    </book>
+    <page href="../contents/Kids/文書.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Men_categories" format="html" processing-role="normal">
+    <book navtitle="Apparel" format="html" processing-role="normal">
+      <book navtitle="Jeans" format="html" processing-role="normal">
+        <page href="../contents/Men_categories/Apparel/Jeans/Outdoor_Dresses_Jeans.htm" format="html" processing-role="normal"></page>
+        <page href="../contents/RoboHelp_Features/Images.htm" format="html" processing-role="normal"></page>
+        <map navtitle="Women_fashion" href="Women_fashion.toc" format="html" processing-role="normal"></map>
+        <page href="../contents/RoboHelp_Features/New_Folder/lists.htm" format="html" processing-role="normal"></page>
+        <page navtitle="Outdoor Dresses Jeans" href="../contents/Men_categories/Apparel/Jeans/Outdoor_Dresses_Jeans.htm" format="html" processing-role="normal"></page>
+      </book>
+      <book navtitle="T-_Shirts" format="html" processing-role="normal">
+        <book navtitle="Shirts" format="html" processing-role="normal">
+          <book href="../contents/Men_categories/Apparel/T-_Shirts/Shirts/men_s_Shirts_Informal.htm" format="html" processing-role="normal">
+            <page navtitle="CloseWindow" href="../contents/Men_categories/Apparel/T-_Shirts/Shirts/men_s_Shirts_Informal.htm#CloseWindow" format="html" processing-role="normal"></page>
+            <page navtitle="object1" href="../contents/Men_categories/Apparel/T-_Shirts/Shirts/men_s_Shirts_Informal.htm#object1" format="html" processing-role="normal"></page>
+            <page navtitle="TOC" href="../contents/Men_categories/Apparel/T-_Shirts/Shirts/men_s_Shirts_Informal.htm#TOC" format="html" processing-role="normal"></page>
+          </book>
+        </book>
+      </book>
+    </book>
+  </book>
+  <book navtitle="RoboHelp_Features" format="html" processing-role="normal">
+    <book navtitle="New_Folder" format="html" processing-role="normal">
+      <book navtitle="folder2" format="html" processing-role="normal">
+        <page href="../contents/RoboHelp_Features/New_Folder/folder2/broken_link_topic.htm" format="html" processing-role="normal"></page>
+        <page href="../contents/RoboHelp_Features/New_Folder/folder2/find_and_replace.htm" format="html" processing-role="normal"></page>
+        <page href="../contents/RoboHelp_Features/New_Folder/folder2/image_in_bullets.htm" format="html" processing-role="normal"></page>
+        <page href="../contents/RoboHelp_Features/New_Folder/folder2/rename_and_reload.htm" format="html" processing-role="normal"></page>
+        <page href="../contents/RoboHelp_Features/New_Folder/folder2/Spell_check.htm" format="html" processing-role="normal"></page>
+        <page href="../contents/RoboHelp_Features/New_Folder/folder2/with_masterpage_Copyright.htm" format="html" processing-role="normal"></page>
+        <page href="../contents/RoboHelp_Features/New_Folder/folder2/word_scenario.htm" format="html" processing-role="normal"></page>
+      </book>
+      <book navtitle="word_sample" format="html" processing-role="normal">
+        <page href="../contents/RoboHelp_Features/New_Folder/word_sample/word_sample.htm" format="html" processing-role="normal"></page>
+      </book>
+      <page href="../contents/RoboHelp_Features/New_Folder/Autonumber.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/dhtml.htm" format="html" processing-role="normal"></page>
+      <book href="../contents/RoboHelp_Features/New_Folder/DHTML_effects.htm" format="html" processing-role="normal">
+        <page navtitle="a3" href="../contents/RoboHelp_Features/New_Folder/DHTML_effects.htm#a3" format="html" processing-role="normal"></page>
+        <page navtitle="T1" href="../contents/RoboHelp_Features/New_Folder/DHTML_effects.htm#T1" format="html" processing-role="normal"></page>
+        <page navtitle="p1" href="../contents/RoboHelp_Features/New_Folder/DHTML_effects.htm#p1" format="html" processing-role="normal"></page>
+      </book>
+      <page href="../contents/RoboHelp_Features/New_Folder/fileds.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/German language.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/HTML_form_elements.htm" format="html" processing-role="normal"></page>
+      <book href="../contents/RoboHelp_Features/New_Folder/Hyperlinks_and_popups.htm" format="html" processing-role="normal">
+        <page navtitle="Link_to_topic__rename_and_reload_" href="../contents/RoboHelp_Features/New_Folder/Hyperlinks_and_popups.htm#Link_to_topic__rename_and_reload_" format="html" processing-role="normal"></page>
+        <page navtitle="this_is_dummy_text." href="../contents/RoboHelp_Features/New_Folder/Hyperlinks_and_popups.htm#this_is_dummy_text." format="html" processing-role="normal"></page>
+      </book>
+      <book href="../contents/RoboHelp_Features/New_Folder/JS_elemeents.htm" format="html" processing-role="normal">
+        <page navtitle="TOC" href="../contents/RoboHelp_Features/New_Folder/JS_elemeents.htm#TOC" format="html" processing-role="normal"></page>
+        <page navtitle="Index" href="../contents/RoboHelp_Features/New_Folder/JS_elemeents.htm#Index" format="html" processing-role="normal"></page>
+        <page navtitle="HHCtrlVersion" href="../contents/RoboHelp_Features/New_Folder/JS_elemeents.htm#HHCtrlVersion" format="html" processing-role="normal"></page>
+        <page navtitle="CloseWindow" href="../contents/RoboHelp_Features/New_Folder/JS_elemeents.htm#CloseWindow" format="html" processing-role="normal"></page>
+      </book>
+      <page href="../contents/RoboHelp_Features/New_Folder/line_break__page_break.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/lists.htm" format="html" processing-role="normal"></page>
+      <book href="../contents/RoboHelp_Features/New_Folder/multimedia.htm" format="html" processing-role="normal">
+        <page navtitle="object1" href="../contents/RoboHelp_Features/New_Folder/multimedia.htm#object1" format="html" processing-role="normal"></page>
+      </book>
+      <page href="../contents/RoboHelp_Features/New_Folder/New_Topic1.htm" format="html" processing-role="normal"></page>
+      <book navtitle="See also and related topic" href="../contents/RoboHelp_Features/New_Folder/See_also,_related_topic.htm" format="html" processing-role="normal">
+        <page navtitle="KeywordSearch" href="../contents/RoboHelp_Features/New_Folder/See_also,_related_topic.htm#KeywordSearch" format="html" processing-role="normal"></page>
+      </book>
+      <page href="../contents/RoboHelp_Features/New_Folder/topic_with_cbts.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/topic_with_snippet.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/Types_of_boxes.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/variables_mango.htm" format="html" processing-role="normal"></page>
+    </book>
+    <book href="../contents/RoboHelp_Features/captivate.htm" format="html" processing-role="normal">
+      <page navtitle="object1" href="../contents/RoboHelp_Features/captivate.htm#object1" format="html" processing-role="normal"></page>
+    </book>
+    <book href="../contents/RoboHelp_Features/Images.htm" format="html" processing-role="normal">
+      <page navtitle="MAP629495624" href="../contents/RoboHelp_Features/Images.htm#MAP629495624" format="html" processing-role="normal"></page>
+    </book>
+  </book>
+  <book navtitle="Women_Categories" format="html" processing-role="normal">
+    <book navtitle="Apparel" format="html" processing-role="normal">
+      <book navtitle="Dresses" format="html" processing-role="normal">
+        <book navtitle="Party" format="html" processing-role="normal">
+          <book href="../contents/Women_Categories/Apparel/Dresses/Party/casual_dresses.htm" format="html" processing-role="normal">
+            <page navtitle="Party_Dress" href="../contents/Women_Categories/Apparel/Dresses/Party/casual_dresses.htm#Party_Dress" format="html" processing-role="normal"></page>
+          </book>
+          <book href="../contents/Women_Categories/Apparel/Dresses/Party/formal_dresses.htm" format="html" processing-role="normal">
+            <page navtitle="object1" href="../contents/Women_Categories/Apparel/Dresses/Party/formal_dresses.htm#object1" format="html" processing-role="normal"></page>
+            <page navtitle="Luckily" href="../contents/Women_Categories/Apparel/Dresses/Party/formal_dresses.htm#Luckily" format="html" processing-role="normal"></page>
+          </book>
+          <page href="../contents/Women_Categories/Apparel/Dresses/Party/Party_Dresses_for_Women.htm" format="html" processing-role="normal"></page>
+        </book>
+        <book href="../contents/Women_Categories/Apparel/Dresses/Women_dresses.htm" format="html" processing-role="normal">
+          <page navtitle="MAP200013402" href="../contents/Women_Categories/Apparel/Dresses/Women_dresses.htm#MAP200013402" format="html" processing-role="normal"></page>
+          <page navtitle="MAP642358923" href="../contents/Women_Categories/Apparel/Dresses/Women_dresses.htm#MAP642358923" format="html" processing-role="normal"></page>
+        </book>
+      </book>
+      <book navtitle="Tops" format="html" processing-role="normal">
+        <book navtitle="Party" format="html" processing-role="normal">
+          <page href="../contents/Women_Categories/Apparel/Tops/Party/Formal_tops.htm" format="html" processing-role="normal"></page>
+        </book>
+      </book>
+    </book>
+    <book navtitle="Footwears" format="html" processing-role="normal">
+      <page href="../contents/Women_Categories/Footwears/Informal_footwears.htm" format="html" processing-role="normal"></page>
+    </book>
+  </book>
+  <book href="../contents/All_Categories.htm" format="html" processing-role="normal">
+    <book navtitle="Apparel" format="html" processing-role="normal">
+      <book navtitle="Dresses @$&amp;" format="html" processing-role="normal">
+        <page href="../contents/Women_Categories/Apparel/Dresses/Women_dresses.htm" format="html" processing-role="normal"></page>
+        <book navtitle="Party" condition="Others:apparel" format="html" processing-role="normal">
+          <page condition="Others:apparel" href="../contents/Women_Categories/Apparel/Dresses/Party/Party_Dresses_for_Women.htm" format="html" processing-role="normal"></page>
+          <page condition="Others:apparel" href="../contents/Women_Categories/Apparel/Dresses/Party/casual_dresses.htm" format="html" processing-role="normal"></page>
+          <page navtitle="Informal dresses bookmark" condition="Others:apparel" href="../contents/Women_Categories/Apparel/Dresses/Party/casual_dresses.htm#Party_Dress" format="html" processing-role="normal"></page>
+          <page navtitle="Men Footwears @#$%12348((0 " href="../contents/Women_Categories/Apparel/Dresses/Women_dresses.htm" format="html" processing-role="normal"></page>
+        </book>
+      </book>
+    </book>
+    <page navtitle="img1" href="../contents/All_Categories.htm#img1" format="html" processing-role="normal"></page>
+    <page href="../contents/All_Categories.htm" format="html" processing-role="normal"></page>
+    <book navtitle="Footwears" format="html" processing-role="normal">
+      <page navtitle="Informal footwears" condition="Others:footwear;Others:Women" href="../contents/Women_Categories/Footwears/Informal_footwears.htm" format="html" processing-role="normal"></page>
+    </book>
+    <page navtitle="T1" href="../contents/All_Categories.htm#T1" format="html" processing-role="normal"></page>
+    <page navtitle="img2" href="../contents/All_Categories.htm#img2" format="html" processing-role="normal"></page>
+    <page navtitle="T2" href="../contents/All_Categories.htm#T2" format="html" processing-role="normal"></page>
+    <page href="../contents/Women_Categories/Cotton_Clothing.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book href="../contents/General_information.htm" format="html" processing-role="normal">
+    <page navtitle="bookmark" href="../contents/General_information.htm#bookmark" format="html" processing-role="normal"></page>
+    <page href="../contents/RoboHelp_Features/DCF_File.docx" format="html" processing-role="normal"></page>
+  </book>
+  <page href="../contents/New_Topic.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/AutoPage03.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/AutoPage04.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/AutoPage01.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/AutoPage_02.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/New_Topic_Carpets,_Floor_Covering,_Draperies_-_Store_only_-_Large_Open_Area_Stores_(1000_m2_or_more)_-_Activity_531300.htm" format="html" processing-role="normal"></page>
+  <project navtitle="OIM" format="html" processing-role="normal"></project>
+</map>

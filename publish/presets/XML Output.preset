@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/master project 1.toc</path>
+      <name>master project 1</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/master project 1.glo</path>
+      <name>master project 1</name>
+    </glossary>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+    <includeDropdownText type="boolean">false</includeDropdownText>
+    <includeExpandingText type="boolean">false</includeExpandingText>
+    <variable>
+      <path></path>
+      <name></name>
+    </variable>
+  </content>
+  <outputPath>C:/Users/gtewari/Documents/My RoboHelp Projects/outputs/master project 1/XML Output</outputPath>
+  <starterPage>master_project_1.xml</starterPage>
+  <search>
+    <context type="boolean">false</context>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <name>XML Output</name>
+  <type>kb</type>
+  <title>master project 1</title>
+  <lowercasenames type="number">0</lowercasenames>
+  <generateMapFiles type="boolean">true</generateMapFiles>
+  <generateBRS type="boolean">true</generateBRS>
+  <undefined>
+    <name>XHTML</name>
+    <displayName>XHTML</displayName>
+  </undefined>
+</preset>

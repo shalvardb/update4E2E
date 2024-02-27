@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <title>Table of Contents</title>
+  <book navtitle="RoboHelp Features" format="html" processing-role="normal">
+    <book navtitle="New Folder" format="html" processing-role="normal">
+      <page href="../contents/RoboHelp_Features/New_Folder/dhtml.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/multimedia.htm" format="html" processing-role="normal"></page>
+      <book href="../contents/RoboHelp_Features/New_Folder/Hyperlinks_and_popups.htm" format="html" processing-role="normal">
+        <page navtitle="this_is_dummy_text." href="../contents/RoboHelp_Features/New_Folder/Hyperlinks_and_popups.htm#this_is_dummy_text." format="html" processing-role="normal"></page>
+      </book>
+      <page navtitle="variables mangoMen Footwears @#$%12348((0" href="../contents/RoboHelp_Features/New_Folder/variables_mango.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/German language.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/topic_with_snippet.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/topic_with_cbts.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/HTML_form_elements.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/Types_of_boxes.htm" format="html" processing-role="normal"></page>
+      <page condition="Others:Online" href="../contents/RoboHelp_Features/New_Folder/JS_elemeents.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/fileds.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/DHTML_effects.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/See_also,_related_topic.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/line_break__page_break.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/lists.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/Autonumber.htm" format="html" processing-role="normal"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/New_Topic1.htm" format="html" processing-role="normal"></page>
+      <book navtitle="folder2" format="html" processing-role="normal">
+        <page href="../contents/RoboHelp_Features/New_Folder/folder2/with_masterpage_Copyright.htm" format="html" processing-role="normal"></page>
+        <page href="../contents/RoboHelp_Features/New_Folder/folder2/image_in_bullets.htm" format="html" processing-role="normal"></page>
+        <page href="../contents/RoboHelp_Features/New_Folder/folder2/broken_link_topic.htm" format="html" processing-role="normal"></page>
+      </book>
+      <page href="../contents/RoboHelp_Features/New_Folder/word_sample/word_sample.htm" format="html" processing-role="normal"></page>
+    </book>
+    <page href="../contents/RoboHelp_Features/Images.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/RoboHelp_Features/captivate.htm" format="html" processing-role="normal"></page>
+  </book>
+  <page href="../contents/All_Categories.htm" format="html" processing-role="normal"></page>
+  <book navtitle="Women Categories" format="html" processing-role="normal">
+    <book navtitle="Apparel" format="html" processing-role="normal">
+      <book navtitle="Dresses @$&amp;" format="html" processing-role="normal">
+        <page href="../contents/Women_Categories/Apparel/Dresses/Women_dresses.htm" format="html" processing-role="normal"></page>
+        <book navtitle="Party" condition="Others:apparel" format="html" processing-role="normal">
+          <page condition="Others:apparel" href="../contents/Women_Categories/Apparel/Dresses/Party/Party_Dresses_for_Women.htm" format="html" processing-role="normal"></page>
+          <page condition="Others:apparel" href="../contents/Women_Categories/Apparel/Dresses/Party/casual_dresses.htm" format="html" processing-role="normal"></page>
+          <page navtitle="Informal dresses bookmark" condition="Others:apparel" href="../contents/Women_Categories/Apparel/Dresses/Party/casual_dresses.htm#Party_Dress" format="html" processing-role="normal"></page>
+          <page navtitle="Men Footwears @#$%12348((0 " href="../contents/Women_Categories/Apparel/Dresses/Women_dresses.htm" format="html" processing-role="normal"></page>
+        </book>
+      </book>
+    </book>
+    <book navtitle="Footwears" condition="Others:footwear;Others:Women" format="html" processing-role="normal">
+      <page navtitle="Informal footwears" condition="Others:footwear;Others:Women" href="../contents/Women_Categories/Footwears/Informal_footwears.htm" format="html" processing-role="normal"></page>
+    </book>
+  </book>
+  <map navtitle="Women_fashion" href="Women_fashion.toc" format="html" processing-role="normal"></map>
+  <book navtitle="Kids" format="html" processing-role="normal">
+    <page href="../contents/Kids/Kids_Dresses.htm" format="html" processing-role="normal"></page>
+    <book href="../contents/Kids/robe_de_fête.htm" format="html" processing-role="normal">
+      <page navtitle="Cyrillic" href="../contents/Kids/robe_de_fête.htm#Cyrillic" format="html" processing-role="normal"></page>
+    </book>
+    <page href="../contents/Kids/文書.htm" format="html" processing-role="normal"></page>
+  </book>
+  <page href="../contents/General_information.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/New_Topic.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/New_Topic_Carpets,_Floor_Covering,_Draperies_-_Store_only_-_Large_Open_Area_Stores_(1000_m2_or_more)_-_Activity_531300.htm" format="html" processing-role="normal"></page>
+</map>

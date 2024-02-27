@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="topic-comment" content=""/>
+<meta name="generator" content="Adobe RoboHelp 2019"/>
+<title>caps, hats</title>
+</head>
+
+<body>
+
+<ol style="list-style: decimal;">
+	<li>CAP: <img src="../../images/image24.gif" id="img1" style="border: none;" alt="" width="213" height="213" border="0" data-condition="Others:acessories"/></li>
+	<li data-condition="Others:acessories"><span>HATS: <img src="../../images/image25.gif" id="T1" style="border: none; position: relative; " alt="" border="0"/></span></li>
+	<li><p style="text-align: center;"><span data-keyref="Casual">Informal</span> 
+	  Coloured: <img src="../../images/image26.gif" style="border: none;" alt="" border="0" data-condition="Others:acessories"/></p></li>
+</ol>
+<script type="text/javascript" language="JavaScript1.2">//<![CDATA[
+	if( typeof( InitTrigger ) != 'function' ) InitTrigger = new Function();
+	if( typeof( InitEffects ) != 'function' ) InitEffects = new Function();
+	InitTrigger('img1', 'T1');
+	InitEffects('T1', 'x-on-trigger-1: show();x-on-trigger-2: hide();');
+//]]></script>
+
+
+</body></html>

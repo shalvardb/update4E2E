@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  
+<keywords>
+  
+<keyword>
+<name>adding See Also</name>
+<linkedFiles>
+<path>../contents/RoboHelp_Features/New_Folder/Hyperlinks_and_popups.htm</path>
+<path>../contents/Women_Categories/Apparel/Dresses/Party/Party_Dresses_for_Women.htm</path>
+<path>../contents/RoboHelp_Features/New_Folder/See_also,_related_topic.htm</path>
+<path>../contents/Men_categories/Apparel/T-_Shirts/Shirts/men_s_Shirts_Informal.htm</path></linkedFiles>
+<usedInFiles>
+<path>../contents/RoboHelp_Features/New_Folder/See_also,_related_topic.htm</path>
+<path>../contents/Men_categories/Apparel/T-_Shirts/Shirts/men_s_Shirts_Informal.htm</path></usedInFiles></keyword>
+<keyword>
+<name>Outdoor dresses: jeans</name>
+<linkedFiles></linkedFiles>
+<usedInFiles>
+<path>../contents/RoboHelp_Features/New_Folder/See_also,_related_topic.htm</path>
+<path>../contents/Men_categories/Apparel/T-_Shirts/Shirts/men_s_Shirts_Informal.htm</path></usedInFiles></keyword>
+<keyword>
+<name>Outdoor dresses: jeans&lt;Brand_name&gt;</name>
+<linkedFiles>
+<path>../contents/Women_Categories/Apparel/Dresses/Party/Party_Dresses_for_Women.htm</path>
+<path>../contents/Men_categories/Apparel/Jeans/Outdoor_Dresses_Jeans.htm</path>
+<path>../contents/Men_categories/Apparel/T-_Shirts/Shirts/men_s_Shirts_Informal.htm</path>
+<path>../contents/RoboHelp_Features/New_Folder/HTML_form_elements.htm</path></linkedFiles>
+<usedInFiles>
+<path>../contents/folderAtest/list_test.htm</path></usedInFiles></keyword></keywords>

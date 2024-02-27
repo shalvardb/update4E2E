@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <variable>
+      <path>NewSet</path>
+      <name>NewSet</name>
+    </variable>
+    <toc>
+      <name>sanityupadate_11</name>
+      <path>../../toc/sanityupadate_11.toc</path>
+    </toc>
+    <index type="boolean">true</index>
+    <glossary>
+      <name>Fashion terms</name>
+      <path>../../glossary/Fashion terms.glo</path>
+    </glossary>
+    <brs type="array">
+      <brsitem>
+        <path>../browsesequence/RoboHelp.brs</path>
+        <name>RoboHelp</name>
+      </brsitem>
+    </brs>
+    <language><code type="number">2057</code>
+      <displayName>English (UK)</displayName>
+      <name>en_UK</name>
+    </language>
+    <masterpage>
+      <name>sanity_update_11</name>
+      <path>../../contents/assets/masterpages/sanity_update_11.htt</path>
+    </masterpage>
+    <mapFiles type="array">
+      <mapFilesitem>
+        <path>../mapfiles/BSSCDefault.ali</path>
+        <name>BSSCDefault</name>
+      </mapFilesitem>
+    </mapFiles>
+    <includeExpandingText type="boolean">true</includeExpandingText>
+    <includeDropdownText type="boolean">true</includeDropdownText>
+  </content>
+  <title>master project 1</title>
+  <type>html5</type>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <outputPath>C:/Users/PASAXENA/Documents/My RoboHelp Projects/outputs/master project 1/NewRes</outputPath>
+  <name>ResponsiveHTML5Default_DCF_SplChars</name>
+  <starterPage>index.htm</starterPage>
+  <logoURL>https://behave.readthedocs.io/en/stable/</logoURL>
+  <lowercasenames type="boolean">false</lowercasenames>
+  <chatbot>
+    <displayName>Google Dialogflow</displayName>
+    <name>dialogflow</name>
+  </chatbot>
+  <mobileapp>
+    <android type="boolean">true</android>
+    <iOS type="boolean">false</iOS>
+  </mobileapp>
+  <search>
+    <suggestion type="boolean">true</suggestion>
+    <context>description</context>
+    <contextLimit type="number">100</contextLimit>
+    <maxSearchresults type="number">20</maxSearchresults>
+    <glossary type="boolean">true</glossary>
+    <searchsubstrings type="boolean">false</searchsubstrings>
+    <fileTypes>
+      <pdf type="boolean">false</pdf>
+      <ppt type="boolean">false</ppt>
+      <text type="boolean">true</text>
+      <word type="boolean">false</word>
+      <xls type="boolean">false</xls>
+    </fileTypes>
+    <showSpeclChars type="boolean">true</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9;%;@;#;$;^;{;};[;];(;|;\;?;+;=;*;</speclChars>
+    <fuzzy type="boolean">true</fuzzy>
+  </search>
+  <filter>
+    <name>AutoDCF</name>
+    <path>../filters/AutoDCF.filter</path>
+  </filter>
+  <sitemap>
+    <use type="boolean">false</use>
+  </sitemap>
+  <skin>
+    <name>html5</name>
+    <path>../skins/Azure_Blue/html5.skn</path>
+  </skin>
+  <createThumbNails type="boolean">false</createThumbNails>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+  <serversStatus type="array">
+    <serversStatusitem>
+      <name>RHSProfile</name>
+    </serversStatusitem>
+    <serversStatusitem>
+      <name>RHSProfile_ReIndexingOn</name>
+    </serversStatusitem>
+  </serversStatus>
+  <republish type="boolean">true</republish>
+</preset>

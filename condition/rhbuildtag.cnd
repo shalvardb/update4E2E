@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+  <prop att="Others" val="acessories" backcolor="#ffff00"></prop>
+  <prop att="Others" val="apparel" backcolor="#808080"></prop>
+  <prop att="Others" val="AuthorNotes" backcolor="#ff9a00"></prop>
+  <prop att="Others" val="Footer" backcolor="#ff00ff"></prop>
+  <prop att="Others" val="footwear" backcolor="#00ffff"></prop>
+  <prop att="Others" val="formal" backcolor="#800080"></prop>
+  <prop att="Others" val="Health" backcolor="#008080"></prop>
+  <prop att="Others" val="Hidden_items" backcolor="#0000ff"></prop>
+  <prop att="Others" val="informal" backcolor="#808000"></prop>
+  <prop att="Others" val="Kids" backcolor="#000080"></prop>
+  <prop att="Others" val="Men" backcolor="#800000"></prop>
+  <prop att="Others" val="Online" backcolor="#00ff00"></prop>
+  <prop att="Others" val="Print" backcolor="#ff0000"></prop>
+  <prop att="Others" val="Stichworte" backcolor="#000000"></prop>
+  <prop att="Others" val="Women" backcolor="#008000"></prop>
+  <prop att="Platform" val="AutoTag01" backcolor="#80DC80" color="#000000"></prop>
+  <prop att="Platform" val="AutoTag02" backcolor="#BAF5F6" color="#000000"></prop>
+  <prop att="Platform" val="AutoTag03" backcolor="#A4DE00" color="#000000"></prop>
+  <prop att="Platform" val="AutoTag04" backcolor="#0083FF" color="#000000"></prop>
+  <prop att="Platform" val="tag_sanity" backcolor="#808E80" color="#000000"></prop>
+  <prop att="Role" val="Admin" backcolor="#800000" color="#000000"></prop>
+  <prop att="Role" val="Configurator" backcolor="#ffff00" color="#000000"></prop>
+</val>

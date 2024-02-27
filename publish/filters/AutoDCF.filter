@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>    
+<filter displayname="Select the options" multiple="yes" withingroup="yes">    
+<group displayname="Platform" name="Platform">
+<condition name="Platform" value="AutoTag01" displayname="AutoTag01" default="no"></condition>
+<condition name="Platform" value="tag_sanity" displayname="tag_sanity" default="no"></condition>
+<condition name="Platform" value="AutoTag02" displayname="AutoTag02" default="no"></condition>
+<condition name="Others" value="acessories" displayname="acessories" default="no"></condition></group>
+<group displayname="New Group" name="New Group">
+<condition name="Platform" value="AutoTag03" displayname="AutoTag03" default="no"></condition>
+<condition name="Platform" value="AutoTag04" displayname="AutoTag04" default="no"></condition>
+<condition name="Others" value="Women" displayname="Women" default="no"></condition></group>
+<group displayname="Others" name="Others"></group></filter>

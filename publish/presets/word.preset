@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <title>master project 1</title>
+  <content>
+    <toc>
+      <path>../../toc/master project 1.toc</path>
+      <name>master project 1</name>
+    </toc>
+    <index type="boolean">false</index>
+    <includereftopics type="boolean">true</includereftopics>
+    <includeExpandingText type="boolean">false</includeExpandingText>
+    <includeDropdownText type="boolean">false</includeDropdownText>
+    <variable>
+      <path></path>
+      <name></name>
+    </variable>
+  </content>
+  <type>word</type>
+  <outputPath>C:/Users/gtewari/Documents/My RoboHelp Projects/outputs/master project 1/word</outputPath>
+  <name>word</name>
+  <starterPage>master_project_1.docx</starterPage>
+  <search>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+  </search>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+  <word>
+    <stylemapping>{&quot;selectorMap&quot;:{},&quot;discardSelectors&quot;:[],&quot;identityMappedSelectors&quot;:[]}</stylemapping>
+    <insertTopicBreak type="boolean">false</insertTopicBreak>
+  </word>
+</preset>
