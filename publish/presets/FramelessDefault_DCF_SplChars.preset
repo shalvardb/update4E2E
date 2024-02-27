@@ -1,1 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>    <preset>    <content><variable><path>NewSet</path><name>NewSet</name></variable><toc><name>sanityupadate_11</name><path>../../toc/sanityupadate_11.toc</path></toc><index type="boolean">true</index><glossary><name>Fashion terms</name><path>../../glossary/Fashion terms.glo</path></glossary><brs type="array"><brsitem><path>../browsesequence/RoboHelp.brs</path><name>RoboHelp</name></brsitem></brs><language><code type="number">2057</code><displayName>English (UK)</displayName><name>en_UK</name></language><mapFiles type="array"><mapFilesitem><path>../mapfiles/BSSCDefault.ali</path><name>BSSCDefault</name></mapFilesitem></mapFiles><includeExpandingText type="boolean">true</includeExpandingText><includeDropdownText type="boolean">true</includeDropdownText></content><title>master project 1</title><metadataNew type="array"><metadataNewitem><propkey>Title</propkey><propvalue>master project 1</propvalue></metadataNewitem></metadataNew><type>frameless</type><glosstermEffect type="number">0</glosstermEffect><outputPath></outputPath><name>FramelessDefault_DCF_SplChars</name><starterPage>index.htm</starterPage><logoURL>https://behave.readthedocs.io/en/stable/</logoURL><lowercasenames type="boolean">true</lowercasenames><layout><tpFooterTopicPath>Issue.htm</tpFooterTopicPath></layout><mobileapp><android type="boolean">true</android><iOS type="boolean">false</iOS></mobileapp><search><suggestion type="boolean">true</suggestion><context>description</context><contextLimit type="number">100</contextLimit><maxSearchresults type="number">20</maxSearchresults><glossary type="boolean">true</glossary><fileTypes><pdf type="boolean">false</pdf><text type="boolean">true</text><word type="boolean">false</word><xls type="boolean">false</xls></fileTypes><showSpeclChars type="boolean">true</showSpeclChars><speclChars>0;1;2;3;4;5;6;7;8;9;%;@;#;$;^;{;};[;];(;|;\;?;+;=;*;</speclChars><fuzzy type="boolean">true</fuzzy></search><filter><name>AutoDCF</name><path>../filters/AutoDCF.filter</path></filter><sitemap><use type="boolean">false</use></sitemap><skin><name>frameless</name><path>../skins/Orange/frameless.skn</path></skin><createThumbNails type="boolean">false</createThumbNails><patchHomepage type="boolean">true</patchHomepage><gdprCompliance type="boolean">true</gdprCompliance><dgflowApiClientKey></dgflowApiClientKey><dgflowApiDevKey></dgflowApiDevKey><serversStatus type="array"><serversStatusitem><name>RHSProfile</name></serversStatusitem><serversStatusitem><name>RHSProfile_ReIndexingOn</name></serversStatusitem></serversStatus><republish type="boolean">true</republish></preset>
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <variable>
+      <path>NewSet</path>
+      <name>NewSet</name>
+    </variable>
+    <toc>
+      <name>sanityupadate_11</name>
+      <path>../../toc/sanityupadate_11.toc</path>
+    </toc>
+    <index type="boolean">true</index>
+    <glossary>
+      <name>Fashion terms</name>
+      <path>../../glossary/Fashion terms.glo</path>
+    </glossary>
+    <brs type="array">
+      <brsitem>
+        <path>../browsesequence/RoboHelp.brs</path>
+        <name>RoboHelp</name>
+      </brsitem>
+    </brs>
+    <language><code type="number">2057</code>
+      <displayName>English (UK)</displayName>
+      <name>en_UK</name>
+    </language>
+    <mapFiles type="array">
+      <mapFilesitem>
+        <path>../mapfiles/BSSCDefault.ali</path>
+        <name>BSSCDefault</name>
+      </mapFilesitem>
+    </mapFiles>
+    <includeExpandingText type="boolean">true</includeExpandingText>
+    <includeDropdownText type="boolean">true</includeDropdownText>
+  </content>
+  <title>master project 1</title>
+  <metadataNew type="array">
+    <metadataNewitem>
+      <propkey>Title</propkey>
+      <propvalue>master project 1</propvalue>
+    </metadataNewitem>
+  </metadataNew>
+  <type>frameless</type>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <outputPath></outputPath>
+  <name>FramelessDefault_DCF_SplChars</name>
+  <starterPage>index.htm</starterPage>
+  <logoURL>https://behave.readthedocs.io/en/stable/</logoURL>
+  <lowercasenames type="boolean">true</lowercasenames>
+  <layout>
+    <tpFooterTopicPath>Issue.htm</tpFooterTopicPath>
+  </layout>
+  <mobileapp>
+    <android type="boolean">true</android>
+    <iOS type="boolean">false</iOS>
+  </mobileapp>
+  <search>
+    <suggestion type="boolean">true</suggestion>
+    <context>description</context>
+    <contextLimit type="number">100</contextLimit>
+    <maxSearchresults type="number">20</maxSearchresults>
+    <glossary type="boolean">true</glossary>
+    <fileTypes>
+      <pdf type="boolean">false</pdf>
+      <text type="boolean">true</text>
+      <word type="boolean">false</word>
+      <xls type="boolean">false</xls>
+    </fileTypes>
+    <showSpeclChars type="boolean">true</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9;%;@;#;$;^;{;};[;];(;|;\;?;+;=;*;</speclChars>
+    <fuzzy type="boolean">true</fuzzy>
+  </search>
+  <filter>
+    <name>AutoDCF</name>
+    <path>../filters/AutoDCF.filter</path>
+  </filter>
+  <sitemap>
+    <use type="boolean">false</use>
+  </sitemap>
+  <skin>
+    <name>frameless</name>
+    <path>../skins/Orange/frameless.skn</path>
+  </skin>
+  <createThumbNails type="boolean">false</createThumbNails>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+  <dgflowApiClientKey></dgflowApiClientKey>
+  <dgflowApiDevKey></dgflowApiDevKey>
+  <serversStatus type="array">
+    <serversStatusitem>
+      <name>RHSProfile</name>
+    </serversStatusitem>
+    <serversStatusitem>
+      <name>RHSProfile_ReIndexingOn</name>
+    </serversStatusitem>
+  </serversStatus>
+  <republish type="boolean">true</republish>
+</preset>

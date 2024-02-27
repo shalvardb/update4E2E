@@ -172,7 +172,6 @@
 <page href="../contents/RoboHelp_Features/result.txt" format="html" processing-role="normal"></page>
 <page href="../contents/AutoPage03.htm" format="html" processing-role="normal"></page>
 <page href="../contents/AutoPage04.htm" format="html" processing-role="normal"></page>
-<page href="../contents/AutoPage01.htm" format="html" processing-role="normal"></page>
 <page href="../contents/AutoPage_02.htm" format="html" processing-role="normal"></page>
 <page href="../contents/NewTape.htm" format="html" processing-role="normal"></page>
 </map>
